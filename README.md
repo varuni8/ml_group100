@@ -1,7 +1,7 @@
 # ml_group100
 
 flower_classification_model contains code
-flower_data contains dataset
+link to flower dataset: https://www.kaggle.com/datasets/waseemalastal/the-oxford-flowers-102-dataset 
 
 Install mentioned modules:
 
