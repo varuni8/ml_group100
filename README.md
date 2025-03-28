@@ -3,10 +3,10 @@
 flower_classification_model contains code
 flower_data contains dataset
 
-Install mentioned modules
+Install mentioned modules:
 
 Tensorflow Keras library:
-pip install tensorflow
+pip install tensorflow,
 pip install keras
 
 Numpy:
